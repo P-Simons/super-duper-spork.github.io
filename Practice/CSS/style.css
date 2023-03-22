@@ -1,0 +1,22 @@
+h1{
+    color: rgb(0, 0, 0);
+    background-color: rgb(187, 201, 234);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 10px;
+    text-align: center;
+    border: 3px lightgray solid;
+}
+
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSarFCFmGaMuOO4nXdWIrda5eqCzLm2B0x9EQ&usqp=CAU");
+    background-size: cover;
+
+}
+
+#intro {
+    color: rgb(116, 101, 190);
+}
+
+#history {
+    color: mediumpurple;
+}
