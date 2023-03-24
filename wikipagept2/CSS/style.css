@@ -1,11 +1,12 @@
 body{
 color: darkorange;
+background-color: rgb(255, 242, 224);
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 margin: 50px;
 }
 h1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: coral;
+    color: coral; font-weight: bold;
 }
 h3{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
