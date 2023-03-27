@@ -1,0 +1,14 @@
+h1{
+    background-color: darkslategray;
+    color: aliceblue;
+}
+body{
+    color: rgb(240, 248, 255);
+    background-color: cadetblue;
+}
+h3{
+    background-color: darkslategray;
+}
+figcaption{
+    color: rgb(0, 0, 0);
+}
