@@ -1,0 +1,37 @@
+body ul{
+    margin: 0;
+    
+}
+
+ul li{
+    display: inline;
+
+}
+
+nav{
+    background-color: rgb(143, 177, 153);
+    text-align: center;
+}
+ul{
+    padding: 20px;
+} 
+li a{
+    padding: 10px;
+    text-decoration: none;
+    color: azure;
+    font-weight: bold;
+}
+li a:hover {
+text-decoration: underline;
+letter-spacing: 2px;
+
+}
+body{
+    background-color: rgb(98, 123, 97);
+}
+p{
+    color: azure;
+}
+h1{
+    color: azure;
+}
