@@ -1,14 +1,24 @@
 h1{
     background-color: darkslategray;
     color: aliceblue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 body{
     color: rgb(240, 248, 255);
     background-color: cadetblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h3{
     background-color: darkslategray;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
 }
 figcaption{
     color: rgb(0, 0, 0);
+}
+#topnav{
+    background-color: darkslategray;
+    padding: 50px;
 }
