@@ -1,0 +1,20 @@
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    align-items: center;
+    height: 50px;
+    gap: 20px
+}
+
+nav{
+    background-color: rgb(168, 215, 184);
+    height: 50px;
+
+}
+body,ul{
+    margin: 0;
+}
+#home {
+    margin-right: auto;
+}
