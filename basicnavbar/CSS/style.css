@@ -3,6 +3,10 @@ body ul{
     
 }
 
+body{
+    height: 2000px;
+}
+
 ul li{
     display: inline;
 
@@ -11,6 +15,8 @@ ul li{
 nav{
     background-color: rgb(143, 177, 153);
     text-align: center;
+    position: sticky;
+    top: 0;
 }
 ul{
     padding: 20px;
