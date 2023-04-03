@@ -17,6 +17,7 @@ nav{
     text-align: center;
     position: sticky;
     top: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 ul{
     padding: 20px;
@@ -37,9 +38,11 @@ body{
 }
 p{
     color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 h1{
     color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .dropdownmenu{
     display: flex;
@@ -53,13 +56,18 @@ h1{
     opacity: 1;
 
 }
-h1{color: antiquewhite;}
+h1{color: antiquewhite;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 h2{
     color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 h3{
     color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 h4{
     color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
