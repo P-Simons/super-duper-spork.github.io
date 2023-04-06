@@ -12,7 +12,7 @@ section {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: azure;
+    background-color: rgb(209, 248, 248);
 }
 
 /* Media Query */
@@ -27,11 +27,11 @@ section {
     }
 }
 nav {
-    background-color: honeydew;
+    background-color: rgb(229, 253, 229);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 header{
-    background-color: lavender;
+    background-color: rgb(218, 218, 249);
 }
 h2{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
