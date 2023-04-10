@@ -21,17 +21,18 @@
                 <form action="POST">
                     <h1>Create a new account</h1>
                     <h4>It's quick and easy.</h4>
+                    <hr>
                     
                     
-                     <input type="text" placeholder="First name">
-                     <input type="text" placeholder="Last name">
+                     <input type="text" placeholder="First name" required>
+                     <input type="text" placeholder="Last name" required>
                      <br>
                      <input type="text" placeholder="Mobile number or email">
                      <input type="password" placeholder="New password">
                      <br>
                      
                      <label form="birthday">Birthday</label>
-                     <select name="birthday" id="month">
+                     <select name="birthday" id="month" required>
                          <option value="january">January</option>
                          <option value="febuary">Febuary</option>
                          <option value="march">March</option>
@@ -46,7 +47,7 @@
                          <option value="december">December</option>
                      </select>
                     
-                     <select name="birthday" id="day">
+                     <select name="birthday" id="day" required>
                          <option value="1">1</option>
                          <option value="1">2</option>
                          <option value="1">3</option>
@@ -80,7 +81,7 @@
                          <option value="1">31</option>
                      </select>  
                      
-                     <select name="birthday" id="year">
+                     <select name="birthday" id="year" required>
                         <option value="1998">1980</option>
                         <option value="1999">1981</option>
                         <option value="2000">1982</option>
@@ -110,7 +111,7 @@
                         </select>
 
                         <br>
-                        <input type="radio" name="male" id="male">
+                        <input type="radio" name="male" id="male" required>
                         <label for="male">Male</label>
                         <input type="radio" name="female" id="female">
                         <label for="female">Female</label>
