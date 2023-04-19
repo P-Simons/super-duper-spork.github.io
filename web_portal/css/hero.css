@@ -1,0 +1,18 @@
+.site-hero{
+    height: 80vh;
+    background-image: url("../assets/branding/wood_bkgrnd.jpg");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero-text {
+    color: aliceblue;
+    font-family: "Bebas Neue";
+    font-style: italic;
+    text-align: center;
+}
+.hero-text h1{
+    font-size: 5em;
+}
