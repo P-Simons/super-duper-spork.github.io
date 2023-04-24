@@ -92,3 +92,8 @@ main {
  h1{
   font-size: 5vh;
  }
+h1{
+  color: #bc6c64;
+  font-family: "lobster";
+  text-align: center;
+}
