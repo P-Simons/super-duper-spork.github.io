@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-image: url("../Assets/images/hulu-bg.jpeg");
+    display: flex;
+    flex-direction: column;
+    color: white;
+    height: 50vh;
+}
+nav img{
+    width: 75px;
+    
+}
+nav button {
+    border: none;
+    color: #a8afbd;
+    background: none;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+#bundle img{
+    height: 10vh;
+}
+#bundle{
+    align-self: center;
+    text-align: center;
+}
+#banner{
+    display: flex;
+   align-items: center;
+   align-self: center;
+   justify-content: center;
+   margin-top: auto;
+}
+
+#banner img{
+    height: 5vh;
+}
+main{
+    background-color: #0b0c0f;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+main h5{
+    margin: 0;
+}
+#gallery{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto;
+    gap: 2rem;
+}
+@media screen and (wax-width: 768px){
+    #gallery {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto;
+    }
+}
+#gallery img{
+    height: 30vh;
+}
