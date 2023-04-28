@@ -17,6 +17,8 @@ nav button {
     border: none;
     color: #a8afbd;
     background: none;
+    font-family: Graphik;
+    
     
 }
 nav{
@@ -66,4 +68,28 @@ main h5{
 }
 #gallery img{
     height: 30vh;
+}
+@font-face {
+    font-family: GraphikBold;
+    src: url("Assets/Graphic-Bold-Trial.otf");
+}
+* {
+    font-family: Graphik;
+}
+a{
+    color: white;
+}
+footer{
+    background-color: black;
+    color: white;
+    font-family: Graphik;
+    text-align: center;
+    margin-top: 0;
+
+}
+input[type=submit]{
+    background-color: #1ce783;
+}
+button{
+    background-color: #1ce783;
 }
